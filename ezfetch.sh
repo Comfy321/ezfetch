@@ -1,5 +1,5 @@
 #! /bin/sh
-#ezfetch - thr lightest and simplest *fetch out there.
+#ezfetch - the lightest and simplest *fetch out there.
 #oh- and look how easy it is to configure!
 #vars
 HOST="$(hostname)"
