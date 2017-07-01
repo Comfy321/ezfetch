@@ -1,7 +1,7 @@
 #! /bin/sh
 #ezfetch - the lightest and simplest *fetch out there.
 #oh- and look how easy it is to configure!
-# version 1.0
+# version 2.0 I guess
 #vars
 HOST="$(hostname)"
 KERNEL="$(uname -mrs)"
